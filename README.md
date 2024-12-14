@@ -1,7 +1,16 @@
-# Hi there! I'm CheesymoonBrainstorms
+# Hi! I'm CheesymoonBrainstorms
+I am interested in programming, I am quite of a beginner and I like coding and creating software!
 
-Welcome to my GitHub profile! I love creating games using the **[Godot Game Engine](https://godotengine.org/)**. I'm also learning **Python** and exploring **data structures and algorithms** to improve my programming skills.
+![CheesymoonBrainstorms's GitHub stats](https://github-readme-stats.vercel.app/api?username=CheesymoonBrainstorms&show_icons=true&theme=transparent)
 
-## What I'm working on:
-- Making my way through the **[Godot Game Engine](https://godotengine.org/)**
-- Learning data structures and algorithms
+## Interests
+[![C, Godot, Linux, Bash](https://skillicons.dev/icons?i=c,godot,linux,bash)](https://github.com/tandpfun/skill-icons#readme)
+
+## Preffered language
+[![C](https://skillicons.dev/icons?i=c)](https://github.com/tandpfun/skill-icons#readme)
+
+## Mastered programming languages
+- None yet 😔
+
+## Currently Learning
+[![C, Godot, Linux, Bash](https://skillicons.dev/icons?i=c,godot,linux,bash)](https://github.com/tandpfun/skill-icons#readme)
